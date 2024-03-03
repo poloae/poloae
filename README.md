@@ -1,7 +1,7 @@
 <html><plasmo-csui></plasmo-csui><head></head><body style=""><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hi+There!+👋;+I'm+_+Mzkt;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&&color=ECF72C&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hi+There!+👋;+I'm+_+Mzkt;">
 </h1>
 
 <h3 align="center">A passionate software developer from France / Uk</h3>
@@ -10,7 +10,7 @@
 
 <div align="center">
 
- 🔭 I’m currently working on **a konami project**
+ 🔭 I’m currently working on **a Konami Project**
 
  🌱 I’m currently learning **Python**
 
