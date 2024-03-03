@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&&color=5865F2&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hi+There!+👋;+I'm+_+Mzkt;">
 </h1>
 
-<h3 align="center">A passionate software developer from France / Uk</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <br>
 
