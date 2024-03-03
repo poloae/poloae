@@ -1,7 +1,7 @@
 <html><plasmo-csui></plasmo-csui><head></head><body style=""><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hi+There!+👋;+I'm+Pedro+Muniz!;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hi+There!+👋;+I'm+_+Mzkt;">
 </h1>
 
 <h3 align="center">A passionate software developer from France / Uk</h3>
@@ -10,13 +10,13 @@
 
 <div align="center">
 
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **a konami project**
 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Python**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The term "bug" in software originated when Grace Hopper found a moth in a computer relay, coining the phrase "debugging.**
 
  </div>
 
