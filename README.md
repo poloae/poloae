@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&&color=5865F2&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hi+There!+👋;+I'm+_+Mzkt;">
 </h1>
 
-<h3 align="center">A passionate software developer from France 🇫🇷</h3>
+<h3 align="center">just a developer from France 🇫🇷</h3>
 
 <br>
 
@@ -13,8 +13,6 @@
  🔭 I’m currently working on **a Konami Project**
 
  🌱 I’m currently learning **Python**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
 ⚡ Fun fact **The term "bug" in software originated when Grace Hopper found a moth in a computer relay, coining the phrase "debugging.**
 
@@ -39,7 +37,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask"><br>
 </div>
 
-<br>
 <hr>
 
 <div align="center">
