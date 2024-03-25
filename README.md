@@ -52,15 +52,6 @@
 
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&amp;count_private=true&amp;theme=react&amp;border_radius=10" alt="streak stats">
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&amp;count_private=true&amp;show_icons=true&amp;theme=react&amp;rank_icon=github&amp;border_radius=10" alt="readme stats">
-  <br>
-  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&amp;hide=HTML&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;border_radius=10&amp;size_weight=0.5&amp;count_weight=0.5&amp;exclude_repo=github-readme-stats" alt="top langs">
-</div>
-
 <br><br>
 
 <hr>
